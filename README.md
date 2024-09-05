@@ -1,3 +1,5 @@
+![Alt text](/Host-a-static-website-on-AWS.jpg)
+
 ---
 
 # Host a Static Website on AWS
